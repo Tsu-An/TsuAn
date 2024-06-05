@@ -172,7 +172,7 @@ body {
 }
 .card2_Content_div {
   width: 500px;
-  height: 66vh;
+  height: 500px;
 }
 
 #block_bottom {
@@ -210,7 +210,7 @@ footer a {
 
 @media (max-width: 1040px) {
   .card2_Content_div {
-    height: 50vh;
+    height: 400px;
   }
   #block_bottom,
   #block_mid {
